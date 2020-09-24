@@ -121,10 +121,12 @@ C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcore
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csprojAssemblyReference.cache
-C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfoInputs.cache
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.AssemblyInfo.cs
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CopyComplete
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.dll
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.pdb
 C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.genruntimeconfig.cache
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Sujoy Basak\source\repos\AuditChecklistModule.Testing\obj\Debug\netcoreapp3.1\AuditChecklistModule.Testing.csproj.CoreCompileInputs.cache

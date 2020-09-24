@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "raPHPpAogmPMtwgAXJp7X99MShs4tzPlSngpo1huMo4qmLHdEzFm9EcOzxEbKCvKY11J+Fy5mnPF8ovALjtuAQ==",
+  "dgSpecHash": "RJyZYyHIWYfqRa7fYDuE4za2gYCukA4A9Qirme7mvWbSdj9S5sY7SDKeqq1WWeB2fuOagtdMnRUB9PyMKnQiMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sujoy Basak\\source\\repos\\AuditChecklistModule.Testing\\AuditChecklistModule.Testing.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sujoy Basak\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\log4net\\2.0.10\\log4net.2.0.10.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
@@ -56,6 +57,7 @@
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.win32.registry\\4.3.0\\microsoft.win32.registry.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sujoy Basak\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
@@ -80,6 +82,7 @@
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.0\\system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.diagnostics.process\\4.3.0\\system.diagnostics.process.4.3.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\Sujoy Basak\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
